@@ -12,7 +12,6 @@
     <modules>
         <module>springboot-dubbo-server</module>
         <module>springboot-dubbo-client</module>
-        <module>springboot-dubbo-common</module>
     </modules>
 
 </project>

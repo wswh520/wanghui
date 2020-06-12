@@ -1,11 +1,11 @@
 server:
-  port: 8081
+  port: 8082
 #  servlet:
 #    #加项目名访问
 #    context-path: /wanghui
 spring:
   application:
-    name: two-demo
+    name: springboot-dubbo-client
   resources:
     static-locations: classpath:/static/
   datasource:
