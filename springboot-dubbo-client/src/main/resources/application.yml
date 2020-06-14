@@ -41,14 +41,6 @@ spring:
         min-idle: 0
         max-active: 8
         max-wait: -1
-  ## Dubbo 服务消费者配置
-  dubbo:
-    application:
-      name: consumer
-      registry:
-        address:
-          zookeeper: //127.0.0.1:2181
-    scan: org.spring.springboot.dubbo
 
 mybatis:
   mapper-locations: classpath:mapper/*Mapper.xml
