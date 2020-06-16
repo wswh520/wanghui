@@ -1,0 +1,5 @@
+server:
+  port: 8083
+#  servlet:
+#    #加项目名访问
+#    context-path: /wanghui
