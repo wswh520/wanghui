@@ -24,7 +24,7 @@
         <poi.version>3.17</poi.version>
         <lombok.version>1.18.10</lombok.version>
         <aop.version>5.2.2.RELEASE</aop.version>
-        <starter.version>2.2.2.RELEASE</starter.version>
+        <starter.version>2.5.12</starter.version>
         <aspectjweaver.version>1.9.5</aspectjweaver.version>
         <druid.version>1.1.9</druid.version>
         <mysql.version>8.0.18</mysql.version>
